@@ -51,10 +51,7 @@ A powerful Flutter-based AI assistant that blends ChatGPT, DALL·E, and voice co
 
 📸 Screenshots
 Home Screen	Features
-
-	
-
-(Replace paths with the actual location of your uploaded screenshots.)
+![Aurora Screenshot](ASSET/image.jpeg)
 
 🧰 Troubleshooting
 
