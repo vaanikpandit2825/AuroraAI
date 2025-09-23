@@ -58,12 +58,12 @@ Home Screen	Features
 
 🧰 Troubleshooting
 
-Double-check API key and quota if requests fail.
+   Double-check API key and quota if requests fail.
 
-Ensure asset paths (pubspec.yaml) are correct.
+   Ensure asset paths (pubspec.yaml) are correct.
 
-Verify internet connectivity for DALL·E image generation.
+   Verify internet connectivity for DALL·E image generation.
 
 📝 License
 
-This project is licensed under the MIT License – feel free to fork, modify, and build upon Aurora.
+   This project is licensed under the MIT License – feel free to fork, modify, and build upon Aurora.
