@@ -31,7 +31,7 @@ A powerful Flutter-based AI assistant that blends ChatGPT, DALL·E, and voice co
 
 1.Clone the repository:
 
-  git clone https://github.com/your-username/aurora.git
+  git clone https://github.com/vaanikpandit2825/aurora.git
 
 2.Navigate into the project folder:
 
@@ -51,7 +51,7 @@ A powerful Flutter-based AI assistant that blends ChatGPT, DALL·E, and voice co
 
 📸 Screenshots
 Home Screen	Features
-![Aurora Screenshot](ASSET/image.jpeg)
+![Aurora Screenshot](ASSET/image.jpg)
 
 🧰 Troubleshooting
 
